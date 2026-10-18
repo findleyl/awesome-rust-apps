@@ -186,6 +186,7 @@
 
 - [Ashlr MD](https://github.com/ashlrai/ashlr-md) <img align="bottom" height="13" src="https://badgen.net/github/stars/ashlrai/ashlr-md?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ashlrai/ashlr-md?style=flat&label=" /> - AI 原生的 Markdown 应用，支持 macOS、Windows 和 Linux，内置免费本地 AI。
 - [Oleafly](https://github.com/Oleafly/Oleafly) <img align="bottom" height="13" src="https://badgen.net/github/stars/Oleafly/Oleafly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Oleafly/Oleafly?style=flat&label=" /> - 本地优先的研究写作工作区，支持 LaTeX、Typst 和 Markdown，可选集成 AI 工具。
+- [Textus](https://github.com/CatVinci-Studio/Textus) <img align="bottom" height="13" src="https://badgen.net/github/stars/CatVinci-Studio/Textus?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/CatVinci-Studio/Textus?style=flat&label=" /> - 新一代 AI 辅助 Markdown 编辑器。
 
 ## 效率
 
