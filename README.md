@@ -180,6 +180,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 ## Finance
 
 - [Finoinc](https://github.com/mateusfonsek/finoinc) <img align="bottom" height="13" src="https://badgen.net/github/stars/mateusfonsek/finoinc?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mateusfonsek/finoinc?style=flat&label=" /> - A private personal finance app that keeps your data in a local SQLite file.
+- [Zielzeit](https://github.com/Mannafee/zielzeit-scalable-capital) <img align="bottom" height="13" src="https://badgen.net/github/stars/Mannafee/zielzeit-scalable-capital?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Mannafee/zielzeit-scalable-capital?style=flat&label=" /> - A macOS menu bar tracker that projects when your Scalable Capital portfolio will reach its goal.
 
 ## Notes & Writing
 
