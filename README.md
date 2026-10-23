@@ -238,6 +238,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## AI & Machine Learning
 
+- [AI Canvas](https://github.com/Tenney95/AI-Canvas-tauri) <img align="bottom" height="13" src="https://badgen.net/github/stars/Tenney95/AI-Canvas-tauri?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Tenney95/AI-Canvas-tauri?style=flat&label=" /> - A node-based canvas for creating AI media and organizing project assets.
 - [AI Switch](https://github.com/burakdede/aisw-desktop) <img align="bottom" height="13" src="https://badgen.net/github/stars/burakdede/aisw-desktop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/burakdede/aisw-desktop?style=flat&label=" /> - A local-first desktop app for switching between AI coding agents.
 - [AntiGravity Switch](https://github.com/anglee0323/agy-switch) <img align="bottom" height="13" src="https://badgen.net/github/stars/anglee0323/agy-switch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/anglee0323/agy-switch?style=flat&label=" /> - A desktop and CLI app for managing Antigravity accounts and quotas.
 - [Kitter](https://github.com/what1f/kitter) <img align="bottom" height="13" src="https://badgen.net/github/stars/what1f/kitter?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/what1f/kitter?style=flat&label=" /> - A lightweight AI skill management tool.

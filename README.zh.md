@@ -238,6 +238,7 @@
 
 ## AI 与机器学习
 
+- [AI Canvas](https://github.com/Tenney95/AI-Canvas-tauri) <img align="bottom" height="13" src="https://badgen.net/github/stars/Tenney95/AI-Canvas-tauri?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Tenney95/AI-Canvas-tauri?style=flat&label=" /> - 用于创作 AI 媒体并管理项目素材的节点式画布应用。
 - [AI Switch](https://github.com/burakdede/aisw-desktop) <img align="bottom" height="13" src="https://badgen.net/github/stars/burakdede/aisw-desktop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/burakdede/aisw-desktop?style=flat&label=" /> - 本地优先的桌面应用，用于切换不同的 AI 编程智能体。
 - [AntiGravity Switch](https://github.com/anglee0323/agy-switch) <img align="bottom" height="13" src="https://badgen.net/github/stars/anglee0323/agy-switch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/anglee0323/agy-switch?style=flat&label=" /> - 用于管理 Antigravity 账号和配额的桌面与命令行工具。
 - [Kitter](https://github.com/what1f/kitter) <img align="bottom" height="13" src="https://badgen.net/github/stars/what1f/kitter?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/what1f/kitter?style=flat&label=" /> - 轻量的 AI Skill 管理工具。
