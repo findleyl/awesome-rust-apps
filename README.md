@@ -71,6 +71,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 ## Contents
 
 - [Tools & Utilities](#tools--utilities)
+- [Communication](#communication)
 - [Database](#database)
 - [Finance](#finance)
 - [Notes & Writing](#notes--writing)
@@ -172,6 +173,10 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Markview](https://github.com/szdytom/markview) <img align="bottom" height="13" src="https://badgen.net/github/stars/szdytom/markview?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/szdytom/markview?style=flat&label=" /> - A fast, native Markdown reader with publication-quality typography that renders math, code and tables without a browser or WebView.
 - [MetaClean](https://github.com/Moresyl/metaclean) <img align="bottom" height="13" src="https://badgen.net/github/stars/Moresyl/metaclean?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Moresyl/metaclean?style=flat&label=" /> - A local tool that removes private metadata from files before sharing.
 - [Zond](https://github.com/zond-rs/zond) <img align="bottom" height="13" src="https://badgen.net/github/stars/zond-rs/zond?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zond-rs/zond?style=flat&label=" /> - Network scanner for discovering hosts, ports, services, and patched distro vulnerabilities.
+
+## Communication
+
+- [FinchGram](https://github.com/FinchGram/FinchGram) <img align="bottom" height="13" src="https://badgen.net/github/stars/FinchGram/FinchGram?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/FinchGram/FinchGram?style=flat&label=" /> - An unofficial, open-source Telegram desktop client for macOS.
 
 ## Database
 
